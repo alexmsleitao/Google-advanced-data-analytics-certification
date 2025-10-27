@@ -6,13 +6,13 @@ It showcases my learning journey in Python, data analysis, statistics, and machi
 ## Projects Overview
 | Module | Project | Description |
 |---------|----------|-------------|
-| 1 | Intro to Data | Data wrangling and basic exploration using pandas |
-| 2 | Exploratory Data Analysis | Visualizing and summarizing data patterns |
-| 3 | Regression Modeling | Building and evaluating regression models |
-| 4 | Classification Modeling | Applying machine learning for classification |
-| 5 | Capstone Project | Full data analytics workflow with business insights |
+| 1 | Foundations of Data Science |  Project workflow PACE (Plan, Analyze, Construct, Execute)  |
+| 2 | Get Started with Python | Object-oriented programming, variables, data types, functions, conditional statements, loops, and data structures.  |
+| 3 | Go Beyond the Numbers: Translate Data into Insights | Exploratory data analysis, data visualizations and storytelling   |
+| 4 | The Power of Statistics | Descriptive and inferential statistics, probability, sampling, confidence intervals, and hypothesis testing |
+| 5 | The Nuts and Bolts of Machine Learning | Machine learning such as Naive Bayes, decision tree, random forest and others |
 
 ## Tools & Technologies
 - Python (pandas, NumPy, scikit-learn, matplotlib, seaborn)
+- Tableu
 - Jupyter Notebook
-- Git & GitHub
